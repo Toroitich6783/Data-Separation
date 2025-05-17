@@ -1,0 +1,1 @@
+This a python script that separates data from a tabular column i.e, data like Black quarter (Enkeya enkeju);East Coast Fever (Oltikana) is separated into two with it's individual count based on number of appearance 
